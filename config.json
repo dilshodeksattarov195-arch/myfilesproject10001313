@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggeruonnect",
+        "uuid": 4919811,
+        "checksum": "yd90g"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
